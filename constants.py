@@ -1,4 +1,4 @@
-{
+TEAM_PAGES = {
     "bills": "https://en.wikipedia.org/wiki/List_of_Buffalo_Bills_seasons",
     "dolphins": "https://en.wikipedia.org/wiki/List_of_Miami_Dolphins_seasons",
     "patriots": "https://en.wikipedia.org/wiki/List_of_New_England_Patriots_seasons",
@@ -14,5 +14,46 @@
     "broncos": "https://en.wikipedia.org/wiki/List_of_Denver_Broncos_seasons",
     "chiefs": "https://en.wikipedia.org/wiki/List_of_Kansas_City_Chiefs_seasons",
     "raiders": "https://en.wikipedia.org/wiki/List_of_Las_Vegas_Raiders_seasons",
-    "chargers": "https://en.wikipedia.org/wiki/List_of_Los_Angeles_Chargers_seasons"
+    "chargers": "https://en.wikipedia.org/wiki/List_of_Los_Angeles_Chargers_seasons",
+    "cowboys": "https://en.wikipedia.org/wiki/List_of_Dallas_Cowboys_seasons",
+    "giants": "https://en.wikipedia.org/wiki/List_of_New_York_Giants_seasons",
+    "eagles": "https://en.wikipedia.org/wiki/List_of_Philadelphia_Eagles_seasons",
+    "commanders": "https://en.wikipedia.org/wiki/List_of_Washington_Commanders_seasons",
+    "bears": "https://en.wikipedia.org/wiki/List_of_Chicago_Bears_seasons",
+    "lions": "https://en.wikipedia.org/wiki/List_of_Detroit_Lions_seasons",
+    "packers": "https://en.wikipedia.org/wiki/List_of_Green_Bay_Packers_seasons",
+    "vikings": "https://en.wikipedia.org/wiki/List_of_Minnesota_Vikings_seasons",
+    "falcons": "https://en.wikipedia.org/wiki/List_of_Atlanta_Falcons_seasons",
+    "panthers": "https://en.wikipedia.org/wiki/List_of_Carolina_Panthers_seasons",
+    "saints": "https://en.wikipedia.org/wiki/List_of_New_Orleans_Saints_seasons",
+    "buccaneers": "https://en.wikipedia.org/wiki/List_of_Tampa_Bay_Buccaneers_seasons",
+    "cardinals": "https://en.wikipedia.org/wiki/List_of_Arizona_Cardinals_seasons",
+    "rams": "https://en.wikipedia.org/wiki/List_of_Los_Angeles_Rams_seasons",
+    "49ers": "https://en.wikipedia.org/wiki/List_of_San_Francisco_49ers_seasons",
+    "seahawks": "https://en.wikipedia.org/wiki/List_of_Seattle_Seahawks_seasons"
 }
+
+TAGS = [
+    '†',
+    '‡', 
+    'Δ', 
+    '^', 
+    '*', 
+    '~', 
+    '§', 
+    '+', 
+    '#',
+    '[A]',
+    '[B]',
+    '[C]',
+    '[D]',
+    '[E]', 
+    '[F]', 
+    '[H]', 
+    '[L]', 
+    '[M]', 
+    '[P]', 
+    '[b]', 
+    '[j]', 
+    'Tooltip National Football League'
+]
